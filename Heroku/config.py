@@ -5,10 +5,10 @@ load_dotenv()
 
 que = {}
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "session")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-BOT_NAME = getenv("BOT_NAME")
-BOT_USERNAME = getenv("BOT_USERNAME")
+SESSION_NAME = getenv("SESSION_NAME", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5791761493:AAGNMROvljLGlsZ2u-YSHlovelLYCu_j1HA")
+BOT_NAME = getenv("BOT_NAME", "ᴍɪꜱꜱ ✘ ᴀɴɢᴇʟ")
+BOT_USERNAME = getenv("BOT_USERNAME", "love_angelbot")
 ASSID = int(getenv("ASSID"))
 ASSNAME = getenv("ASSNAME")
 ASSUSERNAME = getenv("ASSUSERNAME")
